@@ -1,4 +1,4 @@
-# AlphaWallet - Advanced, Open Source Ethereum Mobile Wallet & dApp Browser for iOS
+# MetroWallet - Advanced, Open Source Vapory Mobile Wallet & dApp Browser for iOS
 
 [![Build Status](https://travis-ci.com/AlphaWallet/alpha-wallet-ios.svg?branch=master)](https://github.com/AlphaWallet/alpha-wallet-ios/tree/master)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg )](https://GitHub.com/AlphaWallet/alpha-wallet-ios/graphs/commit-activity)
